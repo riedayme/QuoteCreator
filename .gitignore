@@ -5,5 +5,5 @@ test.php
 
 
 # temp
-storage/temp/.*
-!storage/temp/.gitkeep
+storage/quotes/temp/.*
+!storage/quotes/temp/.gitkeep
